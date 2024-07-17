@@ -1,6 +1,6 @@
 # Challenge_LiteAlura
 Challenge Litealura, G6
-Programado A.Corona
+Programador A.Corona
 
 #Objetivo:
 Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de la API Gutendex la cual es una JSON web API del projecto Gutenberg.
